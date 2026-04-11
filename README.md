@@ -3,7 +3,7 @@ In response to the Palisades and Eaton fires, this 25,000-square-foot mixed-inco
 
 Technique: Agent-based modeling approach (Particle System) -> Simulating mycelium growth using Rhino and Grasshopper. 
 
-![Alt text]("SP2025_20A_Ratanak_Lino_final%20presentation%20board_updated-page-001.jpg)
+![Alt text](SP2025_20A_Ratanak_Lino_final%20presentation%20board_updated-page-001.jpg)
 Final Pinup
 
 ![Alt text](Site%20analysis_updated-page-001.jpg "001")
