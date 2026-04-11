@@ -6,7 +6,7 @@ Technique: Agent-based modeling approach (Particle System) -> Simulating myceliu
 ![Alt text] ("SP2025_20A_Ratanak_Lino_final presentation board_updated.pdf")
 Final Pinup
 
-![Alt text] ("Site analysis_updated.pdf")
+![Alt text] ("Site analysis_updated-page-001.jpg")
 Site Analysis, including weather analysis
 
 ![Alt text] ("exploded diagrams.pdf") 
